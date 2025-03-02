@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game 🎮
 
-A simple two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players take turns marking "X" and "O" on a 3x3 grid. The game automatically detects winners and draws after each move, and allows for a reset to start a new round. 🏆
+A simple two-player Tic-Tac-Toe game built using HTML, CSS, Bootstrap and JavaScript. Players take turns marking "X" and "O" on a 3x3 grid. The game automatically detects winners and draws after each move, and allows for a reset to start a new round. 🏆
 
 ## Features ✨
 - **Two-player mode**: Players alternate between "X" and "O". ➕❌
@@ -11,6 +11,7 @@ A simple two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play
 ## Technologies Used 🛠️
 - **HTML**: Structure of the game board and UI elements. 🏗️
 - **CSS**: Styling for the game layout and visual elements. 🎨
+- **Bootstrap**: Used for responsive layout, grid system, and button styling, ensuring a clean and adaptable UI with minimal custom CSS. 🎨
 - **JavaScript**: Game logic for player turns, win detection, and board reset. 💻
 
 ## How to Play 🕹️
