@@ -21,4 +21,7 @@ A simple two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play
 ## Getting Started
 To play the game locally, simply clone this repository and open the `index.html` file in your browser.
 
-
+```bash
+git clone https://github.com/ajeetverma01/Tic-Tac-Toe-using-JS.git
+cd Tic-Tac-Toe-using-JS
+open index.html
